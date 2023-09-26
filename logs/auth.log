@@ -1,0 +1,208 @@
+2023-09-14  18:09:76 | WARN | "lname" is required
+2023-09-14  19:09:40 | WARN | "password" is required
+2023-09-14  19:09:78 | WARN | "email" is required
+2023-09-15  09:09:34 | ERROR | Headers.Cookie is not a function
+2023-09-15  13:09:97 | ERROR | Cannot read properties of undefined (reading 'split')
+2023-09-15  13:09:14 | ERROR | jwt must be provided
+2023-09-15  13:09:80 | ERROR | jwt must be provided
+2023-09-15  13:09:35 | ERROR | jwt must be provided
+2023-09-15  14:09:93 | ERROR | jwt must be provided
+2023-09-15  14:09:37 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  14:09:74 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  14:09:60 | ERROR | jwt must be provided
+2023-09-15  14:09:08 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:95 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:10 | ERROR | jwt must be provided
+2023-09-15  15:09:60 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:94 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:48 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:02 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  15:09:16 | ERROR | authentication is not defined
+2023-09-15  15:09:52 | ERROR | authentication is not defined
+2023-09-15  15:09:94 | ERROR | authentication is not defined
+2023-09-15  15:09:59 | ERROR | authentication is not defined
+2023-09-15  15:09:03 | ERROR | authentication is not defined
+2023-09-15  15:09:40 | ERROR | authentication is not defined
+2023-09-15  18:09:47 | ERROR | authentication is not defined
+2023-09-15  18:09:46 | ERROR | authentication is not defined
+2023-09-15  18:09:35 | ERROR | Cannot read properties of undefined (reading 'split')
+2023-09-15  18:09:33 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  18:09:98 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-15  18:09:76 | ERROR | Cannot set headers after they are sent to the client
+2023-09-15  18:09:36 | ERROR | Cannot read properties of null (reading 'tokens')
+2023-09-15  18:09:57 | WARN | "isAdmin" is not allowed
+2023-09-15  18:09:56 | WARN | "isAdmin" is not allowed
+2023-09-15  19:09:04 | ERROR | Cannot set headers after they are sent to the client
+2023-09-16  00:09:66 | ERROR | jwt must be provided
+2023-09-16  00:09:49 | ERROR | jwt must be provided
+2023-09-16  00:09:03 | ERROR | jwt must be provided
+2023-09-16  01:09:55 | ERROR | jwt must be provided
+2023-09-16  01:09:03 | ERROR | jwt must be provided
+2023-09-16  01:09:70 | ERROR | blog validation failed: owner: Path `owner` is required.
+2023-09-16  09:09:66 | ERROR | jwt must be provided
+2023-09-16  09:09:46 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-16  09:09:25 | ERROR | jwt must be provided
+2023-09-16  10:09:07 | ERROR | jwt must be provided
+2023-09-16  12:09:85 | ERROR | jwt must be provided
+2023-09-16  12:09:24 | ERROR | jwt must be provided
+2023-09-16  12:09:63 | ERROR | jwt must be provided
+2023-09-16  12:09:84 | ERROR | jwt must be provided
+2023-09-16  12:09:72 | ERROR | jwt must be provided
+2023-09-16  12:09:21 | ERROR | jwt must be provided
+2023-09-16  13:09:42 | ERROR | jwt must be provided
+2023-09-16  22:09:96 | ERROR | jwt must be provided
+2023-09-16  22:09:15 | ERROR | jwt must be provided
+2023-09-16  23:09:73 | ERROR | jwt must be provided
+2023-09-16  23:09:89 | ERROR | jwt must be provided
+2023-09-16  23:09:52 | ERROR | The "cb" argument must be of type function. Received undefined
+2023-09-16  23:09:29 | ERROR | jwt must be provided
+2023-09-16  23:09:58 | ERROR | The "cb" argument must be of type function. Received undefined
+2023-09-16  23:09:71 | ERROR | jwt must be provided
+2023-09-16  23:09:85 | ERROR | The "cb" argument must be of type function. Received undefined
+2023-09-16  23:09:12 | ERROR | The "cb" argument must be of type function. Received undefined
+2023-09-16  23:09:25 | ERROR | jwt must be provided
+2023-09-16  23:09:32 | ERROR | The "cb" argument must be of type function. Received undefined
+2023-09-16  23:09:39 | ERROR | jwt must be provided
+2023-09-16  23:09:11 | ERROR | jwt must be provided
+2023-09-16  23:09:33 | ERROR | jwt must be provided
+2023-09-16  23:09:62 | ERROR | jwt must be provided
+2023-09-16  23:09:94 | ERROR | fs.unlinkSync is not a function
+2023-09-16  23:09:43 | ERROR | jwt must be provided
+2023-09-16  23:09:88 | ERROR | fs.unlinkSync is not a function
+2023-09-16  23:09:36 | ERROR | jwt must be provided
+2023-09-17  00:09:87 | ERROR | jwt must be provided
+2023-09-17  00:09:63 | ERROR | blog.update is not a function
+2023-09-17  00:09:70 | ERROR | Blog.update is not a function
+2023-09-17  00:09:85 | ERROR | jwt must be provided
+2023-09-17  00:09:76 | ERROR | jwt must be provided
+2023-09-17  10:09:21 | ERROR | jwt must be provided
+2023-09-17  10:09:43 | ERROR | fs.unlinkSync is not a function
+2023-09-17  10:09:97 | ERROR | jwt must be provided
+2023-09-17  10:09:47 | ERROR | jwt must be provided
+2023-09-17  10:09:01 | ERROR | jwt must be provided
+2023-09-17  10:09:52 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-17  11:09:19 | ERROR | jwt must be provided
+2023-09-17  11:09:52 | ERROR | jwt must be provided
+2023-09-17  11:09:88 | ERROR | jwt must be provided
+2023-09-17  11:09:91 | ERROR | jwt must be provided
+2023-09-17  11:09:39 | ERROR | jwt must be provided
+2023-09-17  11:09:84 | ERROR | jwt must be provided
+2023-09-17  11:09:83 | ERROR | jwt must be provided
+2023-09-17  11:09:70 | ERROR | jwt must be provided
+2023-09-17  16:09:16 | ERROR | jwt must be provided
+2023-09-17  16:09:63 | ERROR | jwt must be provided
+2023-09-17  16:09:75 | ERROR | Cast to ObjectId failed for value "{}" (type Object) at path "_id" for model "blog"
+2023-09-17  17:09:45 | ERROR | user.save is not a function
+2023-09-17  17:09:75 | ERROR | user.save is not a function
+2023-09-17  17:09:13 | ERROR | user.save is not a function
+2023-09-17  17:09:98 | ERROR | user.save is not a function
+2023-09-17  17:09:54 | ERROR | Illegal arguments: string, undefined
+2023-09-17  17:09:42 | ERROR | Illegal arguments: string, undefined
+2023-09-17  17:09:25 | ERROR | Illegal arguments: string, undefined
+2023-09-17  17:09:95 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-17  17:09:81 | WARN | "fname" is required
+2023-09-17  17:09:30 | WARN | "fname" is required
+2023-09-17  17:09:53 | WARN | "fname" is required
+2023-09-17  17:09:45 | WARN | "fname" is required
+2023-09-17  17:09:79 | WARN | "fname" is required
+2023-09-17  17:09:47 | WARN | "fname" is required
+2023-09-17  17:09:36 | WARN | "fname" is required
+2023-09-17  17:09:66 | WARN | "fname" is required
+2023-09-24  21:09:22 | WARN | "rePassword" is not allowed
+2023-09-24  21:09:86 | WARN | "password" with value "Med@12345" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/
+2023-09-24  21:09:41 | WARN | "password" with value "Med#12345" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/
+2023-09-24  21:09:16 | WARN | "rePassword" is not allowed
+2023-09-24  21:09:62 | WARN | "rePassword" is not allowed
+2023-09-24  21:09:91 | WARN | "rePassword" is not allowed
+2023-09-24  22:09:22 | WARN | "password" length must be at least 8 characters long
+2023-09-24  22:09:79 | ERROR | E11000 duplicate key error collection: blogs.users index: email_1 dup key: { email: "marwan@gmail.com" }
+2023-09-25  00:09:25 | WARN | "password" length must be at least 8 characters long
+2023-09-25  01:09:11 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-25  03:09:23 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  03:09:22 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  04:09:00 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  04:09:81 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  09:09:64 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  09:09:16 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  09:09:21 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  09:09:91 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2023-09-25  09:09:37 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-25  09:09:35 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-25  10:09:56 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-25  10:09:33 | ERROR | Cannot set headers after they are sent to the client
+2023-09-25  12:09:91 | ERROR | Cannot set headers after they are sent to the client
+2023-09-25  13:09:34 | ERROR | Cannot set headers after they are sent to the client
+2023-09-25  16:09:89 | WARN | "password" is required
+2023-09-25  16:09:63 | WARN | "password" is required
+2023-09-25  16:09:27 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:34 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:85 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:85 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:26 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:93 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:46 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  16:09:96 | ERROR | blog validation failed: title: Path `title` is required., content: Path `content` is required.
+2023-09-25  21:09:70 | ERROR | blog validation failed: image: Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-25  22:09:53 | ERROR | blog validation failed: image: Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-25  22:09:42 | ERROR | blog validation failed: image: Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-25  22:09:90 | ERROR | blog validation failed: image: Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-25  22:09:28 | ERROR | blog validation failed: image: Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-26  03:09:52 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  03:09:60 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  03:09:16 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  05:09:85 | ERROR | E11000 duplicate key error collection: blogs.blogs index: _id_ dup key: { _id: ObjectId('65123739f9a204ad0b6767fd') }
+2023-09-26  05:09:27 | ERROR | E11000 duplicate key error collection: blogs.blogs index: _id_ dup key: { _id: ObjectId('651223760d752eb722527acc') }
+2023-09-26  05:09:02 | ERROR | ENOENT: no such file or directory, unlink '/uploads/1695699742231.jpg'
+2023-09-26  05:09:27 | ERROR | ENOENT: no such file or directory, unlink '/uploads/1695687542285.jpg'
+2023-09-26  05:09:88 | ERROR | Cannot read properties of undefined (reading 'filename')
+2023-09-26  05:09:34 | ERROR | ENOENT: no such file or directory, unlink './uploads/1695699742231.jpg'
+2023-09-26  05:09:71 | ERROR | ENOENT: no such file or directory, unlink './uploads/1695699742231.jpg'
+2023-09-26  16:09:44 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  16:09:83 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  16:09:02 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  16:09:39 | ERROR | Cannot set headers after they are sent to the client
+2023-09-26  16:09:17 | ERROR | Cannot set headers after they are sent to the client
